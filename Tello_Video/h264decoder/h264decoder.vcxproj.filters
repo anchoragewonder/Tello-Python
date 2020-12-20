@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Github\Tello-Python\Tello_Video\h264decoder\h264decoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Github\Tello-Python\Tello_Video\h264decoder\h264decoder_python.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Github\Tello-Python\Tello_Video\h264decoder\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E2B8E0C6-E6B3-3A86-8D49-E54A1ACA6592}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

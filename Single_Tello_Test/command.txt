@@ -1,4 +1,9 @@
 command
 takeoff
-delay 5
+delay 1
+up 90
+delay 1
+curve -20 -20 0 20 20 0 10
+delay 1
+down 90
 land
